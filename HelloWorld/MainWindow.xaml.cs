@@ -29,5 +29,10 @@ namespace HelloWorld
         {
             System.Windows.MessageBox.Show("Hello World Hello Work!!!");
         }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            System.Windows.MessageBox.Show("Test!!!");
+        }
     }
 }
